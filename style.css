@@ -65,3 +65,15 @@ main{
 main button a{
     text-decoration: none;
 }
+
+@media (max-width: 500px){
+    img{
+        max-width: 100%;
+    }
+    .skills{
+        flex-wrap: wrap;
+    }
+    .skills div{
+        width: 100%;
+    }
+}

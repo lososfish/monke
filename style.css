@@ -57,3 +57,11 @@ main button:hover{
     display: flex;
     justify-content: space-around;
 }
+
+main{
+    text-align: center;
+}
+
+main button a{
+    text-decoration: none;
+}
